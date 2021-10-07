@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CatRetrofit</string>
+    <string name="id">id = </string>
+    <string name="save">Save</string>
+</resources>
